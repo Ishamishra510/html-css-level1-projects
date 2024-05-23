@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+header {
+    background-image: url("images/bglucknow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+#title {
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-shadow: 0 0 5px rgb(104, 87, 25);
+}
+
+h1 {
+    background-color: rgb(229, 179, 103, 0.5);
+    margin: auto;
+}
+
+#subtitle {
+    background-color: rgba(191, 179, 162, 0.5);
+    margin: 10px auto;
+}
+
+section {
+    background-color: rgb(229, 179, 103);
+    margin-top: 0px;
+    padding: 10px;
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.facts {
+    display: flex;
+}
+
+.fact {
+    padding: 10px
+}
+
+.fact>p {
+    font-size: 15px;
+    height: 300px;
+}
+
+.fact>h3 {
+    font-size: 18px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.container {
+    height: 200px;
+    width: 400px;
+    display: flex;
+    background-color: rgb(229, 179, 103, 0.5);
+    padding: 20px;
+    border-bottom: 10px solid rgb(229, 179, 103);
+}
+
+#pfp {
+    width: 200px;
+    height: 200px;
+    border-radius: 0;
+    margin-right: 10px;
+}
