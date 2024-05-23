@@ -1,13 +1,9 @@
-# co62848058fb784dcfc9d02ab
+author:: isha mishra college:: pranveer singh institute of technology batch:: 2026
 
-Quick start:
+I have been learning HTML and CSS from scrimba.com and it has been a great journey. these are some of the projects that were taught i am very glad to make my versions of them. do check out the course. It is one of the greatest platforms I have ever come across for learning.
 
-```
-$ npm install
-$ npm start
-````
+the following is the description of the course by the instructor:
 
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
